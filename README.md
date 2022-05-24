@@ -1,2 +1,1 @@
-# bp-alert-bot
-Vexanium Blockchain
+# BP-Alert-Bot
